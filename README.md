@@ -20,7 +20,6 @@ Designed with Material 3 and a dark theme, Priofy offers a simple and distractio
 
 ## 📸 Screenshots
 
-> Add your screenshots here after uploading them.
 
 | Home | Add Task | Delete Task |
 |------|----------|-------------|
